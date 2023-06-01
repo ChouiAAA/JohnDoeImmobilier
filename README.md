@@ -1,2 +1,2 @@
 # JohnDoeImmobilier
-Real estate website
+Real estate dummy website, realize only with Bulma no CSS.
